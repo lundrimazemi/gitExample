@@ -1,1 +1,1 @@
-var num=4;
+document.getElementById('baba');
